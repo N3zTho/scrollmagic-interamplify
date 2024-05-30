@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+window.addEventListener("load", function () {
     alert('ad')
     var controller = new ScrollMagic.Controller();
 
