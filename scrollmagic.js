@@ -1,5 +1,5 @@
+alert('ad')
 window.addEventListener("load", function () {
-    alert('ad')
     var controller = new ScrollMagic.Controller();
 
     var tween = TweenMax.fromTo(
